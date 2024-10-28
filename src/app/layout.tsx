@@ -9,10 +9,10 @@ export const metadata = {
   keywords: ["Rock-paper-scissor"],
   themeColor: [{ media: "(prefers-color-scheme: dark)", color: "#fff" }],
   authors: [
-    { name: "Mohammad" },
+    { name: "Masum" },
     {
-      name: "Mohammad",
-      url: "https://github.com/mamad-1999",
+      name: "Masum",
+      url: "https://github.com/developerMasum",
     },
   ],
   viewport:
